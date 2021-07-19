@@ -1,0 +1,11 @@
+table, tr, td, th{
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 5px;
+}
+
+textarea{
+	resize:none;
+}
+
+/* pouze základní úprava tabulky, v zadání bylo že css nemá být */
